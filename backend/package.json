@@ -1,0 +1,16 @@
+{
+  "name": "tita-tacos",
+  "version": "1.0.0",
+  "description": "Server to support tita tacos website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Guardado",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3"
+  }
+}
